@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: rgb(48, 189, 205); /* Set text color to white for better readability */
+}
+
+/* Add more styles as needed */
+h1, h2, h3, h4, h5, h6,p {
+    font-family: 'Papyrus', sans-serif;
+}
+
+.custom-text-color {
+    color: rgb(48, 189, 205);
+}
+
+.card-img-top {
+    height: 400px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+
+.footer {
+    background-color: #000; /* Set the background color to black */
+    color: #100f0f; /* Set the text color to white */
+}
+
+
